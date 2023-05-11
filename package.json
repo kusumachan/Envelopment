@@ -1,0 +1,12 @@
+{
+  "name": "envelopment",
+  "version": "1.0.0",
+  "description": "envelopment is a package that is made to wrap several packages that are quite useful for application development",
+  "main": "src/index.js",
+  "repository": "https://github.com/kusumachan/envelopment",
+  "author": "kusumachan <bintangcitrak26@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.18"
+  }
+}
